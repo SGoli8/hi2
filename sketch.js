@@ -4,7 +4,7 @@ var banana ,bananaImage, obstacle, obstacleImage;
 var FoodGroup, obstacleGroup;
 var score, survialTime;
 var ground;
-
+var hi
 
 
 var PLAY = 1;
